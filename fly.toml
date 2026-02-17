@@ -1,4 +1,4 @@
-app = "YOUR_FLY_APP_NAME"
+app = "telegram-bot-pk"
 primary_region = "sin"
 
 [build]
